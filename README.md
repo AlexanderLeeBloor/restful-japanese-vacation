@@ -6,5 +6,7 @@ To enjoy this vacation to the fullest, there should be as little stress as possi
 1. day-planner (scheduler)
 2. activity-repository (a bin for ideas)
 3. language-practice (hiragana, katakana, kanji)
-4. travel-planner (Google Maps integration or publicly-available transport data APIs for supporting day-planner functions)
+4. travel-planner (Google Maps integration or publicly-available transport data APIs* for supporting day-planner functions)
 5. various supporting services/databases (MySQL/PostgreSQL/etc)
+
+*Note: JR train schedule data is not open. Notable train schedule aggregators include Google, Apple, Yahoo Japan, and a few others.
